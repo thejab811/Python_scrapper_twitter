@@ -1,0 +1,50 @@
+Remmina public ID: 3.22.88.44
+username: root
+sudo passwd : root
+
+sudo adduser kushal
+password: kushal
+
+
+
+sudo apt update 
+
+sudo apt install ubuntu-desktop 
+
+sudo apt install xrdp 
+
+sudo systemctl status xrdp 
+
+sudo adduser xrdp ssl-cert 
+
+sudo ufw allow 3389 (or) 
+
+sudo ufw allow from 192.168.2.0/24 to any port 3389 
+
+sudo ufw reload
+
+
+
+
+
+
+60Gb - $3/month - configure store 
+Linux_GUI- t2.small features 1 MiB of memory and 1 vCPU, - Approximately $17 to $20 per month.
+
+
+Open remmina:
+
+Remmina public ID : 3.16.13.121
+
+Admin Credentials:
+username	: root
+password	: Dd79Ygu80@l
+
+New User Credentials:
+username	: kushal
+password	: kushal
+
+
+
+
+
